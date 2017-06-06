@@ -1,5 +1,5 @@
 # Egolt Framework
-## The engine of quality for Joomla!
+### The engine of quality for Joomla!
 This is a php framework which is based on the Joomla! platform and enables you to serve the better quality extensios and faster updates.
 
 Egolt Framework is flexible and powerful extension framework that is built to increase the power, compatibility and reduce the bugs of Joomla! extensions. With this valuable framework in hand, you could guarantee to have better products with the minimum bugs!
